@@ -2,11 +2,11 @@ import Image from "next/image";
 import styles from "./page.module.css";
 
 export default function Home() {
-  const o = {
-    a = 1
-    b = 2,
-    c = 3
-  }
+  // const o = {
+  //   a = 1
+  //   b = 2,
+  //   c = 3
+  // }
   // let a = 0
   // let a = 1
   return (
